@@ -21,6 +21,8 @@ git checkout -b your-branch-name
 8. When you are ready to push your changes to the open source project:
 
 ```
+git status
+git add yourName-favorite-movies.txt
 git commit -m "{{YOUR COMMIT MESSAGE HERE}}"
 git push origin your-branch-name
 ```
